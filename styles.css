@@ -1,7 +1,37 @@
 body {
     width: 100%;
     max-width: 1024px;
-    margin: 0 auto;
+    margin: 1.5  auto;
     background-color: lavenderblush;
+    padding: 2.5%;
 }
+img {
+    padding: 4px;
+    border: outset black;
+}
+p.intro { 
+    font-size: large;
+  }
+
+  #ahha {
+      color: purple;
+  }
+  .center{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      font: bold;
+  }
+
+  .story{
+      text-align: center;   
+  }
+
+  h1{
+      text-align: center;
+      font: bold;
+      color: purple;
+  }
+
 
